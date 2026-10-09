@@ -974,6 +974,4 @@ GTag6/
 
 ## Автор
 
-**GTag6**
-
-Arduino-библиотека для работы с дисплеем **SES-imagotag G-TAG 6** на ESP32.
+tg:@Takizawa_skyline 
